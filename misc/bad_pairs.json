@@ -1,0 +1,50 @@
+{
+    "binance": [
+        "BCHSVUSDT",
+        "BTTUSDT",
+        "MITHUSDT",
+        "MFTUSDT",
+        "CVCUSDT",
+        "HCUSDT",
+        "FTTUSDT",
+        "BULLUSDT",
+        "TCTUSDT",
+        "REPUSDT",
+        "SRMUSDT",
+        "HNTUSDT",
+        "BTCSTUSDT",
+        "EPSUSDT",
+        "MIRUSDT",
+        "NUUSDT",
+        "TORNUSDT",
+        "TRIBEUSDT",
+        "POLYUSDT",
+        "ANCUSDT"
+    ],
+
+    "kucoin": [
+        "BCHSVUSDT",
+        "EPSUSDT",
+        "KINUSDT"
+    ],
+
+    "bitstamp": [
+        ""
+    ],
+
+    "okx": [
+        ""
+    ],
+
+    "bybit": [
+        ""
+    ],
+
+    "bithumb": [
+        ""
+    ],
+
+    "bitget": [
+        ""
+    ]
+}
